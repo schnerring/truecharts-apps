@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/truecharts/mongodb
   pullPolicy: IfNotPresent
-  tag: v5.0.9@sha256:9ede3c1fc5e68a9600130de5c35612fa5963a182469fd0936a40d810fbdf5b4f
+  tag: v5.0.9@sha256:53695634689ba352106ac9efd2da6783453baad3b87a0506d2d8eece51be6962
 
 controller:
   # -- Set the controller type.

@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/nzbhydra2
   pullPolicy: IfNotPresent
-  tag: v4.3.3@sha256:00c1f8d4a5e1a183028000bab44a2fe8d12dc00ff93a8909bcf5ace3d4453ed6
+  tag: v4.3.3@sha256:5dbf3c2e6ae9b7d26e7edea6e0595e3e597bfaaeefaa26e1e1802ba919f40bc5
 
 securityContext:
   readOnlyRootFilesystem: false

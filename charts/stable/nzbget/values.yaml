@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/nzbget
   pullPolicy: IfNotPresent
-  tag: v21.1@sha256:407669784f5a9ec7ce03039b9d773e2e6586b5019168aa9e9061a517c785280a
+  tag: v21.1@sha256:c0720d1feaac7bbe3418971c5ea0414a37478b5da1b9a8318e28fbf150089716
 
 service:
   main:
